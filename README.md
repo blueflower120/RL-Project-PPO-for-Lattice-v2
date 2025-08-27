@@ -1,0 +1,1 @@
+Based on the code in https://github.com/blueflower120/RL-Project-PPO-for-Lattice---v1, this new project solve the bending issue by rewarding the agent when its action in current state is the same as that in last state. In order encourage the agent to explore places far from the origin, a basic punishment is set for every action.
